@@ -18,7 +18,7 @@ Customization: Easily customize and extend the project with new detection models
 3. Install CUDA Toolkits from [NVIDIA](https://developer.nvidia.com/cuda-10.1-download-archive-base?target_os=Windows&target_arch=x86_64).
 
 4. Download and Setup cuDNN from [NVIDIA](https://developer.nvidia.com/rdp/cudnn-archive):
-   - You should find three folders: bin, include, lib.
+   - You should find three folders: `bin`, `include`, `lib`.
    - Copy these folders and paste them into `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0`.
 
 ## YOLO to TensorFlow Converter
