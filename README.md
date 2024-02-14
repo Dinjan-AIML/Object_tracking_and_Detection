@@ -48,6 +48,7 @@ Customization: Easily customize and extend the project with new detection models
 
 **Final Result**
 
-[Result Video](data/video/results.avi)
+
+[Result Video](https://github.com/Dinjan-AIML/Object_tracking_and_Detection/assets/159764677/87bab589-51e6-4900-815d-723eece0361d)
 
 
