@@ -43,9 +43,9 @@ Customization: Easily customize and extend the project with new detection models
 
 **Sample Input Video**
 
-[Input](https://github.com/Dinjan-AIML/Object_tracking_and_Detection/blob/master/data/video/cars.mp4)
+[Input](data/video/cars.mp4)
 
 
 **Final Result**
 
-[Results](https://github.com/Dinjan-AIML/Object_tracking_and_Detection/blob/master/data/video/results.avi)
+[Results](data/video/results.avi)
