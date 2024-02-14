@@ -40,3 +40,9 @@ Customization: Easily customize and extend the project with new detection models
    ```bash
    python object_tracker.py
    ```
+
+**Sample Input Video**
+
+
+
+**Final Result**
