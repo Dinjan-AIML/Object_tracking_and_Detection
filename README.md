@@ -43,15 +43,10 @@ Customization: Easily customize and extend the project with new detection models
 
 **Sample Input Video**
 
-<video width="320" height="240" controls>
-  <source src="data/video/cars.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Input Video](data/video/cars.mp4)
 
 **Final Result**
 
-<video width="320" height="240" controls>
-  <source src="data/video/results.avi" type="video/avi">
-  Your browser does not support the video tag.
-</video>
+[Result Video](data/video/results.avi)
+
 
