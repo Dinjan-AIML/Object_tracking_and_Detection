@@ -43,9 +43,15 @@ Customization: Easily customize and extend the project with new detection models
 
 **Sample Input Video**
 
-[Input](https://github.com/Dinjan-AIML/Object_tracking_and_Detection/raw/master/data/video/cars.mp4)
-
+<video width="320" height="240" controls>
+  <source src="data/video/cars.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 **Final Result**
 
-[Results](data/video/results.avi)
+<video width="320" height="240" controls>
+  <source src="data/video/results.avi" type="video/avi">
+  Your browser does not support the video tag.
+</video>
+
